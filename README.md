@@ -1,12 +1,10 @@
 # 🤖 Predição de Vendas para Magazine na América do Norte
 
-Este projeto foi desenvolvido durante o Bootcamp de Machine Learning, com foco no uso de dados reais do setor de varejo para criar modelos preditivos que auxiliam a equipe de marketing na definição de preços ideais para produtos.
-
 [Sobre o projeto](#sobre-oprojeto) • [Objetivo](#objetivo) • [Ferramentas Utilizadas](#ferramentas-utilizadas) • [Aprendizados](#aprendizados) • [Como executar](#como-exeutar) • [Conclusão](#conclusão) • [ Créditos e Referências](#créditos-e-referências) • [Licença](#licenca) • [Contato](#contato)
 
 
 ## Sobre o Projeto
-
+Este projeto foi desenvolvido durante o Bootcamp de Machine Learning, com foco no uso de dados reais do setor de varejo para criar modelos preditivos que auxiliam a equipe de marketing na definição de preços ideais para produtos.
 O projeto consiste na predição de vendas para uma grande loja de departamento na América do Norte. A equipe de marketing deseja entender o preço ideal para o produto, considerando o perfil de clientes e o comportamento de compra.
 
 ## Objetivo
